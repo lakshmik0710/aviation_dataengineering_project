@@ -120,10 +120,8 @@ Dashboards are built using **Python Matplotlib inside Databricks notebooks**, re
 ✔ No external BI tools  
 ✔ Gold-layer driven analytics  
 
----
 
-## 📁 Repository Structure
----
+
 
 ## 🎯 Project Outcome
 
